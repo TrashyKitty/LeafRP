@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§2Leaf §aEssentials §nRP §7- §6v2.3",
+		"description": "Leaf resources",
+		"uuid": "6bf4fd1c-375e-442e-ad9c-2846129fdf5d",
+		"version": [1, 0, 122],
+		"min_engine_version": [1, 17, 42]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "ae2eaadb-8f60-4638-ae64-8fef0d334732",
+			"version": [1, 0, 122]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"blockbench_block_wizard": ["1.2.2"],
+			"blockbench_entity_wizard": ["1.5.0"]
+		}
+	}
+}

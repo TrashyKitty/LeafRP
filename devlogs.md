@@ -1,0 +1,1 @@
+`Trashy` **Log: August 9, 2024** | Optimized the resource pack
