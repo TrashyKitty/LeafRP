@@ -17,7 +17,7 @@ This is the resource pack for Leaf Essentials
 
 - Keep the resource pack under 12MB
 - If any new icons are over 128x128 they must be downscaled, just enough to decrease the file size a bit but still no noticable difference
-- Only Trashy or people he manually approves can modify the json ui
+- Only Trashy or people she manually approves can modify the json ui
 - Any new changes must be logged in devlogs.md
 
 ## Update RP2
